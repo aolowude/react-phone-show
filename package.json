@@ -31,10 +31,10 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
-  "author": "Seth Corker <seth.corker@gmail.com>",
-  "homepage": "https://blog.sethcorker.com",
+  "author": "Seth Corker <andrew@3wp.io>",
+  "homepage": "3wp.io",
   "license": "MIT",
-  "repository": "https://github.com/Darth-Knoppix/react-phone-show",
+  "repository": "https://github.com/aolowude/react-phone-show",
   "keywords": [
     "react-component"
   ]
